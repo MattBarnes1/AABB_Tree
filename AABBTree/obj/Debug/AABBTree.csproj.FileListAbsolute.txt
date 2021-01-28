@@ -1,0 +1,2 @@
+D:\GitHub Repos\AABB_Tree\AABBTree\obj\Debug\AABBTree.csprojAssemblyReference.cache
+D:\GitHub Repos\AABB_Tree\AABBTree\obj\Debug\AABBTree.csproj.CoreCompileInputs.cache
